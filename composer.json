@@ -1,0 +1,8 @@
+{
+    "name": "stephenz117/composer-package-demo",
+    "autoload": {
+        "psr-4": {
+            "stephenz117\\ComposerPackageDemo\\": "demo/"
+        }
+    }
+}
